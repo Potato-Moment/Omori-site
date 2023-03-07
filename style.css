@@ -1,0 +1,30 @@
+.any {
+    color: red;
+    font-size: 19px;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+}
+
+.hi {
+    color: burlywood;
+}
+
+.dropdown1 {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+}
+/* give individual link boxes different color*/
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    display: block;
+    background-color: red;
+}
+.dropdown1:hover .dropdown-content {display: block;}
