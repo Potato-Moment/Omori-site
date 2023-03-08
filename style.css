@@ -28,3 +28,9 @@
     background-color: red;
 }
 .dropdown1:hover .dropdown-content {display: block;}
+
+.right-corn {
+    position: relative;
+    right: 0px;
+    top: 0px;
+}
