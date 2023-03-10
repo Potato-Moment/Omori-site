@@ -29,8 +29,14 @@
 }
 .dropdown1:hover .dropdown-content {display: block;}
 
+<<<<<<< Updated upstream
 .right-corn {
     position: relative;
     right: 0px;
     top: 0px;
+=======
+.relativleft {
+    position: relative;
+    left:1800px;
+>>>>>>> Stashed changes
 }
