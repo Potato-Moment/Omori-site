@@ -29,7 +29,8 @@
 }
 .dropdown1:hover .dropdown-content {display: block;}
 
-.BorderLeft {
-    position: sticky;
-    top: 0;
+.bordertext {
+    margin-top: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
