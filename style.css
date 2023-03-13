@@ -29,8 +29,15 @@
 }
 .dropdown1:hover .dropdown-content {display: block;}
 
-.bordertext {
-    margin-top: 200px;
-    margin-left: 300px;
-    margin-right: 300px;
+.center {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.borderleft {
+    float: left;
+}
+
+.borderright {
+    float: right;
 }
