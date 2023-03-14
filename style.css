@@ -25,7 +25,7 @@
     color: black;
     padding: 12px 16px;
     display: block;
-    background-color: red;
+    background-color: rgb(195, 0, 255);
 }
 .dropdown1:hover .dropdown-content {display: block;}
 
@@ -40,4 +40,9 @@
 
 .borderright {
     float: right;
+}
+
+.sticky {
+    position: sticky;
+    top: 0px;
 }
